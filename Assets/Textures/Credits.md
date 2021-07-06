@@ -5,3 +5,7 @@ As this unity project is meant as a show of what I learnt and could create with 
 WispySmoke03_8x8
 - Creator: Thomas ICHÉ
 - Source: https://blog.unity.com/technology/free-vfx-image-sequences-flipbooks
+
+Flame03_16x4
+- Creator: Thomas ICHÉ
+- Source: https://blog.unity.com/technology/free-vfx-image-sequences-flipbooks
