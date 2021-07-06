@@ -9,3 +9,7 @@ WispySmoke03_8x8
 Flame03_16x4
 - Creator: Thomas ICHÉ
 - Source: https://blog.unity.com/technology/free-vfx-image-sequences-flipbooks
+
+Snowflake15
+- Creator: Little Sweet Daemon
+- Source: https://assetstore.unity.com/publishers/17904
