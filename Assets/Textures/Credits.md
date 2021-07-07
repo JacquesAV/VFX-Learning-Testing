@@ -13,3 +13,7 @@ Flame03_16x4
 Snowflake15
 - Creator: Little Sweet Daemon
 - Source: https://assetstore.unity.com/publishers/17904
+
+RealisticSmoke02_6x6
+- Creator: Gabriel Aguiar Prod.
+- Source: https://www.patreon.com/posts/unity-vfx-graph-36814074
